@@ -11,3 +11,6 @@ build/
 **.nsight-gfxproj
 **.DotSettings
 **.user
+
+# Clangd Language Server
+.cache/
